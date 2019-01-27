@@ -1,0 +1,163 @@
+body {
+    direction: rtl;
+    font-family: 'Assistant', sans-serif;
+    font-size: 33px;
+    font-weight: normal;
+    letter-spacing: 0.2px;
+    display: block;
+    margin: 50px; 
+    background-color: rgb(255, 68, 79);
+
+    rgb(148, 8, 32) אדום
+    rgb(231, 0, 52) ורוד יפה כזה
+    /* background-color: rgb(255, 133, 130); */
+    /* background-color: rgb(4, 26, 55); */
+    /* background-color: rgb(197, 26, 55); */
+}
+
+
+.site-title  {
+    position: absolute;
+
+    top: 6rem;
+    right: 600px; 
+    /* border: 2.5px solid rgb(245, 24, 61); */
+     border: 6px solid rgb(211, 0, 56); 
+    width: 17rem;
+    height: 6.5rem;
+    padding: 20px;
+    text-align: center;
+    
+     
+}
+
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+     color: white; 
+    /* color: rgb(245, 24, 61); */
+    line-height: 0.6px;
+}
+
+
+p.subtitle {
+     color: white; 
+    /* color: rgb(245, 24, 61); */
+    margin: -3px;
+}
+
+
+ div.years{
+    display: flex;
+    flex: 1;
+    color: white;
+    margin: 325px auto;
+    
+    
+    margin-top: 22rem;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+
+
+div.year1{
+    border: 6px;
+    background-color: rgb(211, 0, 56);
+    padding: 10px ;
+    width: 17rem;
+    height: 10rem;
+    text-align: center;
+    margin: 25px;
+    box-shadow: 0.3rem 0.8rem 1rem rgba( 0, 0, 0, 0.3 );
+
+    
+    
+    
+}
+
+
+div.year2{
+    border: 6px;
+    background-color: rgb(211, 0, 56);
+    padding: 10px;
+    width: 17rem;
+    height: 10rem;
+    text-align: center;
+    margin: 25px;
+    box-shadow: 0.3rem 0.8rem 1rem rgba( 0, 0, 0, 0.3 );
+
+    
+ 
+}
+
+div.year3{
+    border: 6px;
+    background-color: rgb(211, 0, 56);
+    padding: 10px;
+    width: 17rem;
+    height: 10rem;
+    text-align: center;
+    margin: 25px; 
+    box-shadow: 0.3rem 0.8rem 1rem rgba( 0, 0, 0, 0.3 );
+
+    
+ 
+} 
+
+
+
+
+img {
+    display: block;
+    width: 100%;
+}
+
+
+div.galery {
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin-top: 20rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 21px;
+    /* right: 10rem;  */
+}
+
+
+
+.galery span {
+    display: inline-block;
+    width: 10vw;
+    margin: 25px;
+    box-shadow: 0.4rem 0.4rem 1rem rgba( 0, 0, 0, 0.5 );
+
+    
+}
+
+
+video{
+    margin: 25px;
+}
+
+
+
+div.footer {
+    margin-top: 80px;
+    display: flex;
+    border-top: 1.5px solid rgb(211, 0, 56);
+    font-weight: light;
+    color: white;
+    font-size: 18px;
+    justify-content: center; 
+    
+    
+}
+
+
+

@@ -1,0 +1,43 @@
+body {
+    direction: rtl;
+    font-family: 'Assistant', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 0.2px;
+    display: block;
+    margin:50px; 
+    background-color: rgb(255, 175, 1);
+    
+}
+
+
+div.projects img{
+    width: 350px;
+    position: absolute;
+    bottom: 25vh;
+    right: 38.5vw;
+  
+    
+}
+
+
+
+/*span.caption5 {
+    font-size: 22px;
+    font-weight: normal;
+}*/
+
+
+
+
+/*<div class="project eviatar5">
+            <a href="1.html">
+                <img src="eviatar5.jpg">
+                <span class="caption5">
+                    עטיפת תקליט - שיר טיול לזמר אביתר בנאי
+                    נעשה במסגרת לימודים שנה ב' מנשר לאמנות
+                    רותם פלקס
+                </span>
+            </a>
+        </div>*/
