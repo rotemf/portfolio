@@ -140,9 +140,9 @@ a{
 
 
 div.category{
-    /* position: absolute; */
-    display: flex;
-    top: 2rem;
+    position: absolute;
+    /* display: flex; */
+    top: 3rem;
     right: 30px;
     padding: 10px;
     text-align: center;
