@@ -198,6 +198,15 @@ div.years{
 } 
 
 
+h3{
+    position: absolute;
+    top: 6.8rem;
+    right: 10rem;
+    font-weight: lighter;
+    font-size: 17px;
+    color: white;
+}
+
 
 
 
